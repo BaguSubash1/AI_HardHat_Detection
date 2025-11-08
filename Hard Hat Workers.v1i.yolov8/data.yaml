@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['head', 'helmet', 'person']
+
+roboflow:
+  workspace: hardhat-7xkbq
+  project: hard-hat-workers-hhqjv
+  version: 1
+  license: Public Domain
+  url: https://universe.roboflow.com/hardhat-7xkbq/hard-hat-workers-hhqjv/dataset/1

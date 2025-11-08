@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+
+# OneDrive temp files
+*.tmp
+~$*
+
+# YOLO / Ultralytics
+runs/
+*.pt
+*.onnx
+*.tflite
+*.engine
+*.torchscript
+
+# Datasets
+*.zip
+*.tar
+*.gz
+*.csv
+*.json
+
+# VSCode
+.vscode/

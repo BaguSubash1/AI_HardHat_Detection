@@ -1,5 +1,5 @@
 ultralytics==8.3.0
-opencv-python
+opencv-python-headless
 torch
 torchvision
 matplotlib
